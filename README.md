@@ -18,5 +18,6 @@ In Week 0, I focused on understanding the basics of SQL and how to convert SQL q
 - Writing correct conditions in filter()
 
 ## 📂 Repository Structure
-- phase1 → SQL to PySpark basics
-- phase2 → (upcoming)
+- phase1 → SQL to PySpark basics (select, filter, groupBy)
+- phase2 → Joins, aggregations, and real-world query scenarios
+- phase3 → (upcoming)
